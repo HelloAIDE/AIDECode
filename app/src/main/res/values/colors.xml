@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#448AFF</color>
+    <color name="blue_a700">#0091ea</color>
+    <color name="blue_a400">#2979ff</color>
+    <color name="blue_a200">#448aff</color>
+    <color name="blue_a100">#82b1ff</color>
+    <color name="blue_900">#0d47a1</color>
+    <color name="blue_800">#1565c0</color>
+    <color name="blue_700">#1976d2</color>
+    <color name="cardview_default">#0000ffff</color>
+    <color name="cardview_click">#33000000</color>
+</resources>
